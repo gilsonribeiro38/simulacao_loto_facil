@@ -1,4 +1,4 @@
-Esse é apenas um modelo de uso de maching learning com o objetivo d4 fazer previsões dos
+Esse é apenas um modelo de uso de maching learning com o objetivo de fazer previsões dos
 possíveis números que possam serem sorteados na loto fácil.
 Usei o Chat Gpt para ajudar na construção do script locky.py, fiz as mudanças que achei necessárias.
 Esse script locky.py analisa os dados de sorteios desde o ano de 2004 ate 2023 o resultado é salvo
