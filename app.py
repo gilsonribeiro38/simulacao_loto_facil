@@ -304,7 +304,6 @@ p12=int(dados_seq_14[0][12])
 p13=int(dados_seq_14[0][13])
 p14=int(dados_seq_14[0][14])
 
-#https://colab.research.google.com/drive/1TwkfU1zEDXQTl5cYzT-DaGaUuQ8Gbs2C?usp=sharing
 scaler = StandardScaler().fit(df.values)
 transformed_dataset = scaler.transform(df.values)
 transformed_df = pd.DataFrame(data=transformed_dataset,index=df.index)
